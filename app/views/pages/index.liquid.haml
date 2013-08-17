@@ -13,12 +13,6 @@ published: true
     %meta{:content => "{{ site.meta_description }}", :name => "description"}
     %meta{:content => "{{ site.meta_keywords }}", :name => "keywords"}
 
-    / Fonts
-    {{ 'fonts/awesome.css' | stylesheet_tag }}
-    {{ 'fonts/font-awesome.css' | stylesheet_tag }}
-    /[if IE 7]
-      {{ 'fonts/font-awesome-ie7.min.css' | stylesheet_tag }}
-
     / Le styles
     {{ 'bootstrap.css' | stylesheet_tag }}
     {{ 'bootstrap-responsive.css' | stylesheet_tag }}
@@ -27,8 +21,6 @@ published: true
     / HTML5 shim, for IE6-8 support of HTML5 elements
     /[if lt IE 9]
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-
-    {% inline_editor %}
   %body
 
     .container-narrow
@@ -39,34 +31,71 @@ published: true
           %li
             %a{:href => "/about"} About
           %li
-            %a{:href => "/contact"} Contact
-        %h3.muted {{ site.name }}
+            %a{:href => "/helen"} Helen 
+          %li
+            %a{:href => "/pedro"} Pedro
+        %h3.muted { World Travelers } 
 
       %hr
+
 
       {% block 'main' %}
-      .jumbotron
-        %h1 Super awesome marketing speak!
-        %p.lead Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-        %a.btn.icon-flag.btn-large.btn-success{:href => "#"} Sign up today
+      %img{ src: "{{ 'helen-pedro.jpg' | theme_image_url }}"}
 
       %hr
 
+      .jumbotron
+        %h1 Helen and Pedro's Adventures 
+        %h3.muted hold my hand and let's go... 
+
+      
       .row-fluid.marketing
         .span6
-          %h4 Subheading
-          %p Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.
-          %h4 Subheading
-          %p Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.
-          %h4 Subheading
-          %p Maecenas sed diam eget risus varius blandit sit amet non magna.
+          %h3
+            %img.icon(src="/images/icons/glyphicons_020_home.png")
+            home
+            %h4
+              %li
+                %img.icon(src="/images/icons/glyphicons_295_pot.png")
+                cooking
+              %li
+                %img.icon(src="/images/icons/glyphicons_001_leaf.png")
+                gardening
+              %li
+                %img.icon(src="/images/icons/glyphicons_071_book.png")
+                reading
+              %li
+                %img.icon(src="/images/icons/glyphicons_010_envelope.png")
+                love letters
+              %li
+                %img.icon(src="/images/icons/glyphicons_069_gift.png")
+                surprises
+              %li
+                %img.icon(src="/images/icons/glyphicons_017_music.png")
+                concerts
         .span6
-          %h4 Subheading
-          %p Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.
-          %h4 Subheading
-          %p Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.
-          %h4 Subheading
-          %p Maecenas sed diam eget risus varius blandit sit amet non magna.
+          %h3
+            %img.icon(src="/images/icons/glyphicons_038_airplane.png")
+            next adventure
+            %h4
+              %li
+                %img.icon(src="/images/icons/glyphicons_045_calendar.png")
+                calendar
+              %li
+                %img.icon(src="/images/icons/glyphicons_242_google_maps.png")
+                map
+              %li
+                %img.icon(src="/images/icons/glyphicons_011_camera.png")
+                photo album
+              %li
+                %img.icon(src="/images/icons/glyphicons_049_star.png")
+                favorites
+              %li
+                %img.icon(src="/images/icons/glyphicons_043_group.png")
+                friends and family
+              %li
+                %img.icon(src="/images/icons/glyphicons_064_lightbulb.png")
+                ideas
       {% endblock %}
       %hr
 

@@ -1,1 +1,187 @@
 # Logfile created on 2013-08-16 09:40:06 -0700 by logger.rb/1.2.8
+Started GET "/" at 2013-08-17 07:03:34 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/" at 2013-08-17 07:05:56 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.0ms
+
+
+Started GET "/" at 2013-08-17 07:06:06 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.2ms
+
+
+Started GET "/" at 2013-08-17 07:06:47 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 1.7ms
+
+
+Started GET "/" at 2013-08-17 07:10:40 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+Started GET "/" at 2013-08-17 07:10:43 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 1.8ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:10:47 -0700
+Started GET "/" at 2013-08-17 07:10:48 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.3ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:11:29 -0700
+* Reloaded "pages", "snippets" at 2013-08-17 07:12:57 -0700
+* Reloaded "pages", "snippets" at 2013-08-17 07:13:14 -0700
+Started GET "/" at 2013-08-17 07:13:20 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.0ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:14:00 -0700
+* Reloaded "pages", "snippets" at 2013-08-17 07:14:16 -0700
+Started GET "/" at 2013-08-17 07:14:17 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:15:03 -0700
+Started GET "/" at 2013-08-17 07:15:08 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+Started GET "/" at 2013-08-17 07:16:27 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.5ms
+
+
+Started GET "/" at 2013-08-17 07:16:29 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:16:31 -0700
+Started GET "/" at 2013-08-17 07:16:33 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.2ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:16:43 -0700
+Started GET "/" at 2013-08-17 07:16:44 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:17:07 -0700
+Started GET "/" at 2013-08-17 07:17:09 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:17:29 -0700
+Started GET "/" at 2013-08-17 07:17:31 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.2ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:17:46 -0700
+Started GET "/" at 2013-08-17 07:17:48 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 39.1ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:17:57 -0700
+* Reloaded "pages", "snippets" at 2013-08-17 07:18:13 -0700
+Started GET "/" at 2013-08-17 07:18:15 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.2ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:18:36 -0700
+Started GET "/" at 2013-08-17 07:18:38 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:18:51 -0700
+* Reloaded "pages", "snippets" at 2013-08-17 07:18:55 -0700
+Started GET "/" at 2013-08-17 07:18:56 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 1.8ms
+
+
+* Reloaded "pages", "snippets" at 2013-08-17 07:19:15 -0700
+Started GET "/" at 2013-08-17 07:19:17 -0700
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.6ms
+
+
